@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hey there, It's Eyuael 😃👋
+
+![](https://komarev.com/ghpvc/?username=EyuaelB&color=DF6D74)
+
+-  🔭 Interested in working on Python(Fastapi, Django, Flask, Odoo), Javascript(Reactjs, Nextjs, OWL(Odoo Web Library)) projects!
+-  💬 Find me on [LinkedIn](https://www.linkedin.com/in/eyuael-bezabeh/) and [Website](https://eyuaelbezabeh.devsavants.com).
+-  📫 How to reach me: eyuaelbezabeh@gmail.com
+
 
 <!--
 **EyuaelB/EyuaelB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
